@@ -36,7 +36,7 @@ const footerStyle: React.CSSProperties = {
 const App: React.FC = () => (
   <Space direction="vertical" style={{ width: '100%' }} size={[0, 48]}>
     <Layout>
-      <Header style={headerStyle}>Header</Header>
+      <Header style={headerStyle}>Jijfb</Header>
       <Content style={contentStyle}>Content</Content>
       <Footer style={footerStyle}>Footer</Footer>
     </Layout>
@@ -51,7 +51,7 @@ const App: React.FC = () => (
     <Layout>
       <Header style={headerStyle}>Header</Header>
       <Layout>
-        <Content style={contentStyle}>Content</Content>
+        <Content style={contentStyle}>34543</Content>
         <Sider style={siderStyle}>Sider</Sider>
       </Layout>
       <Footer style={footerStyle}>Footer</Footer>
